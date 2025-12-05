@@ -1,0 +1,24 @@
+# --- 核心框架 ---
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# --- AI 模型連接 (雲端 & 本地) ---
+langchain-openai
+langchain-huggingface
+huggingface-hub
+sentence-transformers
+openai
+
+# --- 向量資料庫 ---
+chromadb
+
+# --- 前端介面 ---
+streamlit
+
+# --- 資料處理與工具 ---
+pypdf
+python-dotenv
+pydantic
+tiktoken
