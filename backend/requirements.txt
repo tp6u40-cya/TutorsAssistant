@@ -22,3 +22,4 @@ pypdf
 python-dotenv
 pydantic
 tiktoken
+pandas
